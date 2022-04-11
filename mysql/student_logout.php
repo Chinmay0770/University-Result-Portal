@@ -1,0 +1,11 @@
+<?php
+session_start();
+unset($_SESSION['active_email']);
+unset($_SESSION['active_name']);
+unset($_SESSION['avatar']);
+unset($_SESSION['active_table']);
+unset($_SESSION['active_sem']);
+unset($_SESSION['active_course']);
+session_destroy();
+header("location:../student/Studentlogin.php");
+?>
