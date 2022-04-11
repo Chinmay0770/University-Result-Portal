@@ -9,7 +9,9 @@ It has 2 dashboards :
 Student Dashboard : Shows the result on few clicks of button which can be downloaded in a pdf format.
 ![image](https://user-images.githubusercontent.com/84377128/162666565-113ff482-4860-48e1-b8d6-422de35812c6.png)
 
-![image](https://user-images.githubusercontent.com/84377128/162666615-42cb901f-9f9a-4925-ae7c-26163490d630.png)
+![image](https://user-images.githubusercontent.com/84377128/162667566-bd01ca8b-0ed4-4148-8024-e7e50dc5c5d8.png)
+
 
 Faculty Dashboard : faculty can directly upload csv file to declare the result.
+
 ![image](https://user-images.githubusercontent.com/84377128/162666777-70034ab8-a309-45df-ae2f-1c86d3eda698.png)
