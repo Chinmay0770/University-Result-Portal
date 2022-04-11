@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    size: portrait;
+    
+}
+
+body{
+    width: 80%;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    align-items: center;
+}
+.container{
+    margin-left: 20%;
+}
+.line {
+    background-color: rgb(18, 18, 88);
+}
+
+
+
+.head {
+    
+    margin-top: 10px;
+    
+}
+
+.tbs-con {
+    margin: 15px;
+    margin-top: 60px;
+    font-size: 15px;
+    min-width: 730px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    margin-left: 25%;
+    zoom: 1;
+}
+  
+.tbs-con th,
+.tbs-con td {
+    padding: 12px 15px;
+    text-align: left;
+    border: 1px black solid;
+    font-weight: bold;
+}
+  
+.tbs-con tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.content-table {
+    margin-top: 35px;
+    font-size: 15px;
+    min-width: 660px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    margin-left: 12.5%;
+    zoom: 1;
+}
+  
+.content-table thead tr {
+    background-color: #f14a0d;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
+  
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+    text-align: center;
+    border: 0.5px white solid;
+}
+
+.content-table td{
+    background-color: #f0bba9;
+    color: black;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.button{
+    position: absolute;
+    bottom: 5px;
+    left : 610px;
+    padding: 15px;
+    cursor: pointer;
+    width: 200px;
+    font-size: 15px;
+    background-color: #f14a0d;
+    color: rgb(247, 244, 244);
+    border-radius:20px;
+    border: none;
+    font-weight: bold;
+}
+.button .button__text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.button_icon{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 24px;
+    color: #fff;
+    height: 100%;
+    font-size: 1.5em;
+    background: rgba(0, 0, 0, 0.08);
+      
+}
